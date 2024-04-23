@@ -53,7 +53,7 @@ def calculate_circle_area(radius):
     
     return area
 
-# Call the function with different values of radius
+# Call the function with different  of radius
 radii = [2.5, 3.0, 5.2]
 for radius in radii:
     area = calculate_circle_area(radius)
